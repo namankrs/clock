@@ -1,6 +1,6 @@
 body {
   background-size: 100%;
-  background: url("/images/backdrop.jpeg");
+  background: url("./images/backdrop.jpeg");
   display: flex;
 }
 section {
